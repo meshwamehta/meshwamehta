@@ -15,6 +15,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=true" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=meshwamehta&repo=github-readme-stats"
   />
 </picture>
