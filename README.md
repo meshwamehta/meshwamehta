@@ -11,10 +11,10 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: )"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=true" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=meshwamehta&repo=github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta&size_weight=0.5&count_weight=0.5"
   />
 </picture>
