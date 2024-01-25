@@ -17,3 +17,4 @@
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify"/>
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
