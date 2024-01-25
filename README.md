@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Meshwa Mehta
 
 - 🔭 I’m currently working on MERN Stack Project
 - 👯 I’m looking to collaborate on MERN Stack Projects
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/CRUDify)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
 
 
