@@ -9,8 +9,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
- 
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta&size_weight=0.5&count_weight=0.5"
+    srcset="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: tokyonight)"
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false" />
 </picture>
