@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MERN Stack Project
 - 👯 I’m looking to collaborate on MERN Stack Projects
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
 
 
