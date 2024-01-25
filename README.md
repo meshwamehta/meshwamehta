@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=false" />
   
 </picture>
-[https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=github-readme-stats](https://github.com/meshwamehta/github-readme-stats)
+[https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify](https://github.com/meshwamehta/CRUDify)
