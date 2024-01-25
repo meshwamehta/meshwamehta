@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MERN Stack Project
 - 👯 I’m looking to collaborate on MERN Stack Projects
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
 
 
@@ -18,5 +18,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=false" />
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify"/>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify"
+  />
 </picture>
