@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on MERN Stack Project
 - 👯 I’m looking to collaborate on MERN Stack Projects
 
+##Languaes 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
+
 
 <picture>
   <source
@@ -17,4 +20,3 @@
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify"/>
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshwamehta)](https://github.com/meshwamehta/github-readme-stats)
