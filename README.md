@@ -14,7 +14,4 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: tokyonight)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=meshwamehta&show_icons=false" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=meshwamehta&repo=CRUDify"
-  />
-</picture>
+ </picture>
